@@ -1,0 +1,8 @@
+/* app.component.css */
+.container {
+  display: flex;
+}
+.left-side, .right-side {
+  width: 50%;
+}
+/* Diğer CSS kodları... */
